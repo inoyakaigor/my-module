@@ -1,0 +1,29 @@
+{
+    "_from": "my-module@1",
+    "_id": "my-module@1.0.0",
+    "_inBundle": false,
+    "_location": "/my-module",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "range",
+      "registry": true,
+      "raw": "my-module@1",
+      "name": "my-module",
+      "escapedName": "my-module",
+      "rawSpec": "1",
+      "saveSpec": null,
+      "fetchSpec": "1"
+    },
+    "_requiredBy": [
+      "#USER",
+      "/"
+    ],
+    "_spec": "my-module@1",
+    "_where": "/Users/inoy/projects/typescript-tree-shaking",
+    "license": "ISC",
+    "main": "index.js",
+    "module": "es/index.js",
+    "name": "my-module",
+    "sideEffects": false,
+    "version": "1.0.0"
+  }
